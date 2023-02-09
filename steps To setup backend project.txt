@@ -1,0 +1,10 @@
+************** this steps written with smile ************************ 
+************** donet forget these steps you Can do it ***********************
+*********************************************************************************************************************************
+
+section 2 >> lesson 6 
+
+1.dotnet new sln
+2.dotnet new webapi -n API
+3.dotnet sln add API
+
