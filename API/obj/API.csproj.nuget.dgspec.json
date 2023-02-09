@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\.net7\\DatingAppNotesByOrieb\\API\\API.csproj": {}
+    "D:\\.net7\\DatingAppNotesByOrieb\\API\\API.csproj": {}
   },
   "projects": {
-    "d:\\.net7\\DatingAppNotesByOrieb\\API\\API.csproj": {
+    "D:\\.net7\\DatingAppNotesByOrieb\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.net7\\DatingAppNotesByOrieb\\API\\API.csproj",
+        "projectUniqueName": "D:\\.net7\\DatingAppNotesByOrieb\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "d:\\.net7\\DatingAppNotesByOrieb\\API\\API.csproj",
+        "projectPath": "D:\\.net7\\DatingAppNotesByOrieb\\API\\API.csproj",
         "packagesPath": "C:\\Users\\oraib.z\\.nuget\\packages\\",
-        "outputPath": "d:\\.net7\\DatingAppNotesByOrieb\\API\\obj\\",
+        "outputPath": "D:\\.net7\\DatingAppNotesByOrieb\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oraib.z\\AppData\\Roaming\\NuGet\\NuGet.Config",
